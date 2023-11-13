@@ -28,33 +28,33 @@ I leverage Power BI's advanced analytics features, such as forecasting, clusteri
 
 ## Projects
 
-### Project 1: Adventureworks Visualized Data.
-
-### Project 2: 
-### Project 3: 
-### Project 4: 
-### Project 5: 
-### Project 6: 
-### Project 7: 
-### Project 8:
-### Project 9:
-### Project 10: 
-### Project 11: 
+Project 1: Adventureworks Visualized Data<br>
+Project 2: Beverage Data<br>
+Project 3: Call Centre Analysis<br>
+Project 4: Call center Dashboard<br>
+Project 5: Car Sales<br>
+Project 6: Failed Banks<br>
+Project 7: Finance Report<br>
+Project 8: HR Analytics Dashboard<br>
+Project 9: Insurance Analysis<br>
+Project 10: Spotify<br>
+Project 11: Tesla Stocks<br>
+Project 12: Titanic survival<br>
+Project 13: World bank Loan<br>
 
 ## Education and Certifications
 
-- Bachelor's Degree in [Your Field of Study], [University Name], [Year of Graduation]
-- Power BI Certification, [Certification Authority], [Year Obtained]
-
+- Bachelor's Degree in Computer Engineering, Computer Engineering, 2014<br>
+-[Microsoft Power Platform Developer Associate (PL-400)]()<br>
+-[Cybersecurity – IBM](https://www.credly.com/badges/af57aefb-4d47-4e5b-a72b-986ac62cc605/linked_i)<br>
+-[Systems Engineering](https://alison.com/certification/check/$2y$10$XfimzCPktJBTbF.iGKCdU.STBQV3R3LAa3p139DzYRZunMNlCQFge)<br>
+-[IT Management](https://alison.com/certification/check/$2y$10$x8QT6gEr7uKIPptVW6clXOluK1kWNaQXPzaAqw7karqJnrHUVgVtu)<br>
 ## Contact Information
 
 Feel free to reach out to me for collaborations, opportunities, or just a chat about the exciting world of data analytics.
 
-[Omotoba Olujuwon Ebenezer]<br>
-[Email Address]<br>
-[LinkedIn Profile]<br>
-[CV]<br>
+Omotoba Olujuwon Ebenezer<br>
+[Email](mail@olujuwon.net)<br>
+[LinkedIn](http://www.linkedin.com/in/olujuwon-omotoba-69599074)<br>
+[Website](https://www.olujuwon.net/)<br>
 
----
-
-Feel free to personalize this template with your specific details, experiences, and achievements to make it truly reflective of your skills and accomplishments as a Power BI data analyst.
