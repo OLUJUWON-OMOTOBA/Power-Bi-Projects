@@ -8,7 +8,7 @@ Welcome to my Power BI Data Analyst portfolio, where data meets insights! I am a
 
 ### Power BI Mastery
 
-I possess advanced proficiency in Power BI, harnessing its capabilities to create dynamic dashboards, interactive reports, and visually compelling data visualizations. From data transformation to model creation and DAX formulation, I excel in every aspect of the Power BI ecosystem.
+I possess advanced proficiency in Power BI, harnessing its capabilities to create dynamic dashboards, interactive reports, and visually compelling data visualizations. From data transformation to model creation and DAX formulation, I excel in every aspect of the Power BI eco-system.
 
 ### Data Transformation and Modeling
 
