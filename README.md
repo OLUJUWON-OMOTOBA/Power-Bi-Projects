@@ -29,7 +29,7 @@ I leverage Power BI's advanced analytics features, such as forecasting, clusteri
 ## Projects
 
 Project 1: [Adventureworks Visualized Data](https://github.com/OLUJUWON-OMOTOBA/Projects-Description/blob/main/README.md#project-1-adventureworks-visualized-data)<br>
-Project 2: Beverage Data<br>
+Project 2: [Beverage Data](https://github.com/OLUJUWON-OMOTOBA/Projects-Description/blob/main/Beverage%20Data%20(1).pbix)<br>
 Project 3: Call Centre Analysis<br>
 Project 4: Call center Dashboard<br>
 Project 5: Car Sales<br>
