@@ -31,16 +31,16 @@ I leverage Power BI's advanced analytics features, such as forecasting, clusteri
 Project 1: [Adventureworks Visualized Data](https://github.com/OLUJUWON-OMOTOBA/Projects-Description/blob/main/README.md#project-1-adventureworks-visualized-data)<br>
 Project 2: [Beverage Data](https://github.com/OLUJUWON-OMOTOBA/Project-2)<br>
 Project 3: [Call Centre Analysis](https://github.com/OLUJUWON-OMOTOBA/Project-3/tree/main)<br>
-Project 4: [Call center Dashboard]<br>
-Project 5: Car Sales<br>
-Project 6: Failed Banks<br>
-Project 7: Finance Report<br>
-Project 8: HR Analytics Dashboard<br>
-Project 9: Insurance Analysis<br>
-Project 10: Spotify<br>
-Project 11: Tesla Stocks<br>
-Project 12: Titanic survival<br>
-Project 13: World bank Loan<br>
+Project 4: [Call center Dashboard](https://github.com/OLUJUWON-OMOTOBA/Project-4)<br>
+Project 5: [Car Sales](https://github.com/OLUJUWON-OMOTOBA/Project-5)<br>
+Project 6: [Failed Banks](https://github.com/OLUJUWON-OMOTOBA/Project-6)<br>
+Project 7: [Finance Report](https://github.com/OLUJUWON-OMOTOBA/Project-7)<br>
+Project 8: [HR Analytics Dashboard]()<br>
+Project 9: [Insurance Analysis]()<br>
+Project 10:[Spotify]()<br>
+Project 11:[Tesla Stocks]()<br>
+Project 12:[Titanic survival]()<br>
+Project 13:[World bank]() Loan<br>
 
 ## Education and Certifications
 
