@@ -35,12 +35,12 @@ Project 4: [Call center Dashboard](https://github.com/OLUJUWON-OMOTOBA/Project-4
 Project 5: [Car Sales](https://github.com/OLUJUWON-OMOTOBA/Project-5)<br>
 Project 6: [Failed Banks](https://github.com/OLUJUWON-OMOTOBA/Project-6)<br>
 Project 7: [Finance Report](https://github.com/OLUJUWON-OMOTOBA/Project-7)<br>
-Project 8: [HR Analytics Dashboard]()<br>
-Project 9: [Insurance Analysis]()<br>
-Project 10:[Spotify]()<br>
-Project 11:[Tesla Stocks]()<br>
-Project 12:[Titanic survival]()<br>
-Project 13:[World bank]() Loan<br>
+Project 8: [HR Analytics Dashboard](https://github.com/OLUJUWON-OMOTOBA/Project-8)<br>
+Project 9: [Insurance Analysis](https://github.com/OLUJUWON-OMOTOBA/Project-9)<br>
+Project 10:[Spotify](https://github.com/OLUJUWON-OMOTOBA/Project-10)<br>
+Project 11:[Tesla Stocks](https://github.com/OLUJUWON-OMOTOBA/Project-11)<br>
+Project 12:[Titanic survival](https://github.com/OLUJUWON-OMOTOBA/Project-12)<br>
+Project 13:[World bank Loan](https://github.com/OLUJUWON-OMOTOBA/Project-13)<br>
 
 ## Education and Certifications
 
