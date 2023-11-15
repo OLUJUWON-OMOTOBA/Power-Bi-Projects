@@ -1,5 +1,5 @@
-# Power BI Data Analyst Portfolio
-
+![image](https://github.com/OLUJUWON-OMOTOBA/Power-Bi-Projects/assets/134015058/a67dccbe-903d-4a48-952b-3becf05b30e8)   
+#  Power BI Data Analyst Portfolio 
 ## Introduction
 
 Welcome to my Power BI Data Analyst portfolio, where data meets insights! I am a dedicated and results-driven professional with a passion for transforming raw data into meaningful narratives. My expertise lies in leveraging Power BI to extract actionable insights, drive data-driven decision-making, and deliver impactful visualizations.
