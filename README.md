@@ -49,7 +49,7 @@ Project 13: World bank Loan<br>
 -[Cybersecurity – IBM](https://www.credly.com/badges/af57aefb-4d47-4e5b-a72b-986ac62cc605/linked_i)<br>
 -[Systems Engineering](https://alison.com/certification/check/$2y$10$XfimzCPktJBTbF.iGKCdU.STBQV3R3LAa3p139DzYRZunMNlCQFge)<br>
 -[IT Management](https://alison.com/certification/check/$2y$10$x8QT6gEr7uKIPptVW6clXOluK1kWNaQXPzaAqw7karqJnrHUVgVtu)<br>
--[Digital Communication Networks]([https://alison.com/certification/check/$2y$10$x8QT6gEr7uKIPptVW6clXOluK1kWNaQXPzaAqw7karqJnrHUVgVtu](https://alison.com/certification/check/%242y%2410%24qsLmI6HmwE7ct41jm3phehnA5m1zaR1OWhUjGFDrBu0g3aV9VmJq))<br>
+-[Digital Communication Networks](https://alison.com/certification/check/$2y$10$x8QT6gEr7uKIPptVW6clXOluK1kWNaQXPzaAqw7karqJnrHUVgVtu)<br>
 ## Contact Information
 
 Feel free to reach out to me for collaborations, opportunities, or just a chat about the exciting world of data analytics.
