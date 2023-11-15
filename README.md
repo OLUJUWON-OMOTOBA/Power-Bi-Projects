@@ -1,4 +1,4 @@
-![image](https://github.com/OLUJUWON-OMOTOBA/Power-Bi-Projects/assets/134015058/a67dccbe-903d-4a48-952b-3becf05b30e8)   
+![image](https://github.com/OLUJUWON-OMOTOBA/Power-Bi-Projects/assets/134015058/69a4a6b1-893e-4330-a7bd-56584d6d4bc5)
 #  Power BI Data Analyst Portfolio 
 ## Introduction
 
