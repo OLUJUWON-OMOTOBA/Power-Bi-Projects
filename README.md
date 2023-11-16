@@ -58,4 +58,5 @@ Omotoba Olujuwon Ebenezer<br>
 [Email](mail@olujuwon.net)<br>
 [LinkedIn](http://www.linkedin.com/in/olujuwon-omotoba-69599074)<br>
 [Website](https://www.olujuwon.net/)<br>
+[CV](https://drive.google.com/file/d/11lZSY3iJnMY_B_y2gSfdRk9-0TD14Yda/view?usp=sharing)
 
