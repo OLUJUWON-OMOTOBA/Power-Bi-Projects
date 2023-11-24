@@ -28,12 +28,13 @@ Project 10:[Spotify](https://github.com/OLUJUWON-OMOTOBA/Project-10)<br>
 Project 11:[Tesla Stocks](https://github.com/OLUJUWON-OMOTOBA/Project-11)<br>
 Project 12:[Titanic survival](https://github.com/OLUJUWON-OMOTOBA/Project-12)<br>
 Project 13:[World bank Loan](https://github.com/OLUJUWON-OMOTOBA/Project-13)<br>
-Developed comprehensive sales analysis dashboards to track and visualize regional sales performance.
-Constructed financial reports showcasing key metrics and KPIs for executive decision-making.
-Collaborated with cross-functional teams to analyze customer behavior and enhance marketing strategies.
+Developed comprehensive analysis dashboards to track and visualize performances.
+Constructed reports showcasing key metrics and KPIs for executive decision-making.
+Collaborated with cross-functional teams to analyze key behaviors and enhance further strategies.
+
 # 📚Goals:
 
-Continuously seeking opportunities to expand my knowledge in data analytics, machine learning, and AI to contribute innovative solutions in the evolving data landscape.
+Continuously seeking opportunities to expand my knowledge in Business Intelligence and Data Analytics to contribute innovative solutions in the evolving data landscape.
 
 ## 🎓Education and Certifications
 
