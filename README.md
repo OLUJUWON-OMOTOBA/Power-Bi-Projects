@@ -1,6 +1,6 @@
 # DATA-ANALYTICS-PORTFOLIO
 # ABOUT ME
-👋 Hello there!I'm Oluleke Omotoba, a dedicated and results-driven Data Analyst specializing in leveraging the power of data to extract meaningful insights. With a passion for transforming raw data into actionable information, I thrive on translating complex datasets into compelling visual stories using Power BI.
+👋 Hello there!I'm Olujuwon Omotoba, a dedicated and results-driven Data Analyst specializing in leveraging the power of data to extract meaningful insights. With a passion for transforming raw data into actionable information, I thrive on translating complex datasets into compelling visual stories using Power BI.
 
 🚀 _Why Data?_ Data, for me, is more than just nrmbers and charts; it's the key to unraveling stories hidden within. I believe in the power of data to drive informed decision-making and bring about positive change.
 
@@ -35,7 +35,7 @@ Collaborated with cross-functional teams to analyze customer behavior and enhanc
 
 Continuously seeking opportunities to expand my knowledge in data analytics, machine learning, and AI to contribute innovative solutions in the evolving data landscape.
 
-## Education and Certifications
+## 🎓Education and Certifications
 
 - Bachelor's Degree in Computer Engineering, Computer Engineering, 2014<br>
 -[Microsoft Power Platform Developer Associate (PL-400)](https://learn.microsoft.com/en-us/users/olujuwonomotoba-0303/credentials/497e4034a4bf5d55)<br>
