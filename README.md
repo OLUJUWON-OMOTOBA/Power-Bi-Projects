@@ -1,33 +1,20 @@
-![images](https://github.com/OLUJUWON-OMOTOBA/Power-Bi-Projects/assets/134015058/5daef660-8df8-4a4f-90b5-b1c8dbffb332)
-#  Data Analyst Portfolio 
-## Introduction
+# DATA-ANALYTICS-PORTFOLIO
+# ABOUT ME
+👋 Hello there!I'm Oluleke Omotoba, a dedicated and results-driven Data Analyst specializing in leveraging the power of data to extract meaningful insights. With a passion for transforming raw data into actionable information, I thrive on translating complex datasets into compelling visual stories using Power BI.
 
-Welcome to my Power BI Data Analyst portfolio, where data meets insights! I am a dedicated and results-driven professional with a passion for transforming raw data into meaningful narratives. My expertise lies in leveraging Power BI to extract actionable insights, drive data-driven decision-making, and deliver impactful visualizations.
+🚀 _Why Data?_ Data, for me, is more than just nrmbers and charts; it's the key to unraveling stories hidden within. I believe in the power of data to drive informed decision-making and bring about positive change.
 
-## Skills
+# 🧰Skills and Expertise:
+- Data Extraction and Transformation: Skilled in data wrangling, cleaning, and modeling to ensure data accuracy and consistency.
+- Statistical Analysis: Capable of conducting statistical analysis and applying analytical methodologies to extract valuable insights.
+- Problem-Solving: Strong analytical and problem-solving skills to identify business challenges and provide data-driven solutions.
+- Data Visualization: Experience in creating visually compelling charts, graphs, and heatmaps to communicate complex data effectively.
+  
+**🔧Toolbox:**
+- Power BI Development: Proficient in creating interactive dashboards and reports to visualize data trends and patterns.
+- SQL: Proficient in writing SQL queries for data extraction and manipulation from various database systems.
 
-### Power BI Mastery
-
-I possess advanced proficiency in Power BI, harnessing its capabilities to create dynamic dashboards, interactive reports, and visually compelling data visualizations. From data transformation to model creation and DAX formulation, I excel in every aspect of the Power BI eco-system.
-
-### Data Transformation and Modeling
-
-My experience includes comprehensive data preparation and transformation using Power Query, ensuring data integrity and consistency. I am adept at designing efficient data models, establishing relationships, and optimizing performance for seamless reporting.
-
-### DAX Formulation
-
-With a strong foundation in Data Analysis Expressions (DAX), I have crafted complex calculations and implemented business logic to derive valuable insights. My skills extend to creating calculated columns, measures, and custom hierarchies, enhancing the depth of analysis.
-
-### Data Visualization
-
-I take pride in my ability to turn raw data into visually appealing and intuitive dashboards. From bar charts to geographic maps, my visualizations are designed to convey complex information in a clear and concise manner, facilitating easy comprehension.
-
-### Advanced Analytics
-
-I leverage Power BI's advanced analytics features, such as forecasting, clustering, and outliers detection, to uncover patterns and trends that drive strategic decision-making for businesses.
-
-## Projects
-
+# 🛠Project Highlights:
 Project 1: [Adventureworks Visualized Data](https://github.com/OLUJUWON-OMOTOBA/Projects-Description/blob/main/README.md#project-1-adventureworks-visualized-data)<br>
 Project 2: [Beverage Data](https://github.com/OLUJUWON-OMOTOBA/Project-2)<br>
 Project 3: [Call Centre Analysis](https://github.com/OLUJUWON-OMOTOBA/Project-3/tree/main)<br>
@@ -41,6 +28,12 @@ Project 10:[Spotify](https://github.com/OLUJUWON-OMOTOBA/Project-10)<br>
 Project 11:[Tesla Stocks](https://github.com/OLUJUWON-OMOTOBA/Project-11)<br>
 Project 12:[Titanic survival](https://github.com/OLUJUWON-OMOTOBA/Project-12)<br>
 Project 13:[World bank Loan](https://github.com/OLUJUWON-OMOTOBA/Project-13)<br>
+Developed comprehensive sales analysis dashboards to track and visualize regional sales performance.
+Constructed financial reports showcasing key metrics and KPIs for executive decision-making.
+Collaborated with cross-functional teams to analyze customer behavior and enhance marketing strategies.
+# 📚Goals:
+
+Continuously seeking opportunities to expand my knowledge in data analytics, machine learning, and AI to contribute innovative solutions in the evolving data landscape.
 
 ## Education and Certifications
 
@@ -50,8 +43,8 @@ Project 13:[World bank Loan](https://github.com/OLUJUWON-OMOTOBA/Project-13)<br>
 -[Systems Engineering](https://alison.com/certification/check/$2y$10$XfimzCPktJBTbF.iGKCdU.STBQV3R3LAa3p139DzYRZunMNlCQFge)<br>
 -[IT Management](https://alison.com/certification/check/$2y$10$x8QT6gEr7uKIPptVW6clXOluK1kWNaQXPzaAqw7karqJnrHUVgVtu)<br>
 -[Digital Communication Networks](https://alison.com/certification/check/%242y%2410%24qsLmI6HmwE7ct41jm3phehnA5m1zaR1OWhUjGFDrBu0g3aV9VmJq)<br>
-## Contact Information
 
+🔗Let's Connect:
 Feel free to reach out to me for collaborations, opportunities, or just a chat about the exciting world of data analytics.
 
 Omotoba Olujuwon Ebenezer<br>
@@ -59,4 +52,6 @@ Omotoba Olujuwon Ebenezer<br>
 [LinkedIn](http://www.linkedin.com/in/olujuwon-omotoba-69599074)<br>
 [Website](https://www.olujuwon.net/)<br>
 [CV](https://drive.google.com/file/d/11lZSY3iJnMY_B_y2gSfdRk9-0TD14Yda/view?usp=sharing)
+I'm passionate about data and its potential to drive informed decisions. Whether it's discussing data strategies, collaborating on projects, or exploring opportunities, I'm open to connecting and sharing insights.
 
+Happy analyzing! 📊🔍
