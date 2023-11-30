@@ -1,4 +1,4 @@
-# BUSINESS DEVELOPER-PORTFOLIO
+# BUSINESS INTELLIGENCE DEVELOPER-PORTFOLIO
 # ABOUT ME
 👋 Hello there!I'm Olujuwon Omotoba, a dedicated and results-driven Power BI Data Analyst specializing in leveraging the power of data to extract meaningful insights. With a passion for transforming raw data into actionable information, I thrive on translating complex datasets into compelling visual stories using Power BI.
 
