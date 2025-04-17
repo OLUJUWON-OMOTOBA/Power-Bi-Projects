@@ -41,7 +41,8 @@ Continuously seeking opportunities to expand my knowledge in Business Intelligen
 ## 🎓Education and Certifications
 
 - Bachelor's Degree in Computer Engineering, Computer Engineering, 2014<br>
--[Microsoft Power Platform Developer Associate (PL-400)](https://learn.microsoft.com/en-us/users/olujuwonomotoba-0303/credentials/497e4034a4bf5d55)<br>
+-[Microsoft Certified: Platform Developer Associate (PL-400)](https://learn.microsoft.com/en-us/users/olujuwonomotoba-0303/credentials/497e4034a4bf5d55)<br>
+-[Microsoft Certified: Azure AI Engineer Associate (AI-102)](https://learn.microsoft.com/en-us/users/olujuwonomotoba-0303/credentials/caee9b8182ff4f0f)<br>
 -[Cybersecurity – IBM](https://www.credly.com/badges/af57aefb-4d47-4e5b-a72b-986ac62cc605/linked_i)<br>
 -[Systems Engineering](https://alison.com/certification/check/$2y$10$XfimzCPktJBTbF.iGKCdU.STBQV3R3LAa3p139DzYRZunMNlCQFge)<br>
 -[IT Management](https://alison.com/certification/check/$2y$10$x8QT6gEr7uKIPptVW6clXOluK1kWNaQXPzaAqw7karqJnrHUVgVtu)<br>
@@ -54,7 +55,7 @@ Omotoba Olujuwon Ebenezer<br>
 [Email](mail@olujuwon.net)<br>
 [LinkedIn](http://www.linkedin.com/in/olujuwon-omotoba-69599074)<br>
 [Website](https://www.olujuwon.net/)<br>
-[CV](https://drive.google.com/file/d/11lZSY3iJnMY_B_y2gSfdRk9-0TD14Yda/view?usp=sharing)
+[CV]([https://drive.google.com/file/d/11lZSY3iJnMY_B_y2gSfdRk9-0TD14Yda/view?usp=sharing)
 I'm passionate about data and its potential to drive informed decisions. Whether it's discussing data strategies, collaborating on projects, or exploring opportunities, I'm open to connecting and sharing insights.
 
 Happy analyzing! 📊🔍
