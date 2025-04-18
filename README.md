@@ -55,7 +55,7 @@ Omotoba Olujuwon Ebenezer<br>
 [Email](mail@olujuwon.net)<br>
 [LinkedIn](http://www.linkedin.com/in/olujuwon-omotoba-69599074)<br>
 [Website](https://www.olujuwon.net/)<br>
-[CV]([https://drive.google.com/file/d/11lZSY3iJnMY_B_y2gSfdRk9-0TD14Yda/view?usp=sharing)
+[CV](https://drive.google.com/file/d/18GU4-3qXUZNNPQqU2uu-6q7PKoMcOaDt/view?usp=drive_link)<br>
 I'm passionate about data and its potential to drive informed decisions. Whether it's discussing data strategies, collaborating on projects, or exploring opportunities, I'm open to connecting and sharing insights.
 
 Happy analyzing! 📊🔍
