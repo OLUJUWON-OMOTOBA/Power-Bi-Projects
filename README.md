@@ -30,6 +30,7 @@ Project 11:[Tesla Stocks](https://github.com/OLUJUWON-OMOTOBA/Project-11)<br>
 Project 12:[Titanic survival](https://github.com/OLUJUWON-OMOTOBA/Project-12)<br>
 Project 13:[World bank Loan](https://github.com/OLUJUWON-OMOTOBA/Project-13)<br>
 Project 14:[Ekiti State Polls Analysis](https://github.com/OLUJUWON-OMOTOBA/EKITI_ELECTIONS_DATA_ANALYSIS)<br>
+Project 15:[Osun Polls Analysis](https://githttps://github.com/OLUJUWON-OMOTOBA/OSUN-POLLS-ANALYSIS-2022)<br>
 Developed comprehensive analysis dashboards to track and visualize performances.
 Constructed reports showcasing key metrics and KPIs for executive decision-making.
 Collaborated with cross-functional teams to analyze key behaviors and enhance further strategies.
